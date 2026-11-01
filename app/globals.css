@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-accent: #206c91;
+  --color-accent-dark: #174f6c;
+  --color-accent-tint: #e8f1f6;
+  --color-ink: #17191a;
+  --color-muted: #5b6670;
+  --color-line: #e2e9ed;
+  --color-surface: #f6f9fb;
+  --font-sans: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: Consolas, "Cascadia Mono", ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #206c91;
+  color: #ffffff;
+}
+
+/* Subtle dot pattern behind the hero */
+.dot-grid {
+  background-image: radial-gradient(circle, rgba(32, 108, 145, 0.16) 1px, transparent 1px);
+  background-size: 26px 26px;
+}
