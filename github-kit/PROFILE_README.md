@@ -34,7 +34,7 @@
 ### 📫 Me contacter
 
 - ✉️ bahsoribafrerot224@gmail.com
-- 🌐 Portfolio : *à ajouter après le déploiement (ex. https://ton-nom.vercel.app)*
+- 🌐 Portfolio : https://portfolio-phi-three-vaqz34m91f.vercel.app
 
 <!-- Optionnel : statistiques GitHub automatiques
 <p align="center">
